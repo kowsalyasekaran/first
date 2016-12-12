@@ -1,0 +1,27 @@
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\QtApp-debug-unaligned.apk : \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\QtApp.ap_ \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\classes.dex \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\QtAndroid-bundled.jar \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\gdbserver \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libaddress-book.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libgdbserver.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libgnustl_shared.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevkeyboardplugin.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevmouseplugin.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevtabletplugin.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevtouchplugin.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqdds.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqgif.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqicns.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqico.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqjpeg.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtga.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtiff.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwbmp.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwebp.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_android_libqtforandroid.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_libqminimal.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_libqoffscreen.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Core.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Gui.so \
+D:\kowsi\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Widgets.so \
